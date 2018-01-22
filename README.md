@@ -234,7 +234,7 @@ Response result in JSON:
 (**NOTE:** The data of Twitter users are fictitious and not related to real accounts)
 
 ```json
-HTTP 200 OK
+HTTP/1.0 200 OK
 ...
 
 [
@@ -299,7 +299,7 @@ Response result in JSON:
 (**NOTE:** The data of Twitter users are fictitious and not related to real accounts)
 
 ```json
-HTTP 200 OK
+HTTP/1.0 200 OK
 ...
 
 [
@@ -378,7 +378,7 @@ Response result in JSON:
 (**NOTE:** The data of Twitter users are fictitious and not related to real accounts)
 
 ```json
-HTTP 200 OK
+HTTP/1.0 200 OK
 ...
 
 [
@@ -429,7 +429,7 @@ Response result in JSON:
 (**NOTE:** The data of Twitter users are fictitious and not related to real accounts)
 
 ```json
-HTTP 200 OK
+HTTP/1.0 200 OK
 ...
 
 [
@@ -459,7 +459,7 @@ Response result in JSON:
 (**NOTE:** The data of Twitter users are fictitious and not related to real accounts)
 
 ```json
-HTTP 200 OK
+HTTP/1.0 200 OK
 ...
 
 [
@@ -496,7 +496,7 @@ Response result in JSON:
 (**NOTE:** The data of Twitter users are fictitious and not related to real accounts)
 
 ```json
-HTTP 200 OK
+HTTP/1.0 200 OK
 ...
 
 [
